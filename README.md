@@ -1,7 +1,7 @@
 # mern-cat-facts-notes
 A full-stack MERN note-taking application where each note is paired with a random cat fact. Built with React, Node.js, MongoDB
 
-# 🐱 Cat-Fact Note-Taking App
+#  Cat-Fact Note-Taking App
 
 A simple note-taking web application built using the **MERN stack** (MongoDB, Express.js, React, Node.js). Each note is automatically assigned a random [cat fact](https://catfact.ninja/fact) upon creation.
 
@@ -19,7 +19,7 @@ A simple note-taking web application built using the **MERN stack** (MongoDB, Ex
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 - **Frontend**: React (with Context API, Hooks, Axios)
 - **Backend**: Node.js, Express.js
